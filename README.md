@@ -11,3 +11,5 @@ Created an <aside> element and deleted the class=aside.  Edited the Benefit CSS 
 Edited the CSS and merged all H3 in to one
 
 Replaced the class=content to <section> element.  Edited the CSS content to section.
+
+Migrated CSS of benefits to just one "benefit-lead"
