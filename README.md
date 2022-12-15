@@ -18,4 +18,4 @@ Deleted Online-reputation-management and social-media-marketing CSS files and me
 
 Merge all IMG css in to one element
 
-Merge all H2 in to one CSS
+Merge all H2 in to one CSS, then change the footer H2 to H4
