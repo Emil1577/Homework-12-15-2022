@@ -15,3 +15,7 @@ Replaced the class=content to <section> element.  Edited the CSS content to sect
 Migrated CSS of benefits to just one "benefit-lead"
 
 Deleted Online-reputation-management and social-media-marketing CSS files and merge to seacrh-engine-optimization.  Edited the index file to apply CSS changes.
+
+Merge all IMG css in to one element
+
+Merge all H2 in to one CSS
